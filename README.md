@@ -8,7 +8,7 @@ I like to develop projects in the internet and technology industry. I am skilled
 
 *   🌍  I'm based in Istanbul, Turkey.
 *   ✉️  You can contact me at [alpersunar@outlook.com](mailto:alpersunar@outlook.com)
-*   🚀  I'm currently working on [something new and exciting.](http://corvustechnology.co)
+*   🚀  I'm currently working on [something new and exciting.](http://corvus.so)
 *   🧠  I'm learning more than yesterday.
 *   🤝  I'm open to collaborating on Machine Learning & AI
 *   ⚡  I have an arc reactor on my chest... but don't tell anyone.<a href="https://www.twitter.com/alpersnr" target="_blank" rel="noreferrer"><img
