@@ -11,10 +11,14 @@ I like to develop projects in the internet and technology industry. I am skilled
 *   🚀  I'm currently working on [something new and exciting.](http://corvus.so)
 *   🧠  I'm learning more than yesterday.
 *   🤝  I'm open to collaborating on Machine Learning & AI
-*   ⚡  I have an arc reactor on my chest... but don't tell anyone.<a href="https://www.twitter.com/alpersnr" target="_blank" rel="noreferrer"><img
+*   ⚡  I have an arc reactor on my chest... but don't tell anyone.
+
+<a href="https://www.twitter.com/alpersnr" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/alpersnr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
                 /></a><a href="https://www.github.com/thesunar" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/thesunar?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/thesunar?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+                  
+                  ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -30,7 +34,7 @@ I like to develop projects in the internet and technology industry. I am skilled
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
+                   Socials
                   
                   
                 <p align="left">
